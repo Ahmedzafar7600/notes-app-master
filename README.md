@@ -4,8 +4,7 @@
 <ul>
 <li>Sqlite database to store custom Note object.</li>
 <li>Staggered GridView</li>
-</ul>
-Video Demo: https://www.youtube.com/watch?v=Fg68VND8unE <br><br>
+</ul><br><br>
 Screenshots:<br>
 <table style={border:"none"}><tr>
 <td><img src="https://user-images.githubusercontent.com/29589003/57393518-fc3e4e00-71e2-11e9-98d1-a0151767fc56.png" alt="Screenshot 3"/></td>
